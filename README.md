@@ -13,6 +13,7 @@ Currently tested the followng, with responses in the following directories:
 ```
 responses/
   chatgpt-o1.md # ChatGPT-o1 with no additional support
+  gpt-4-customized.md # GPT-4 with additional material support and information
   dmo.md # The Digital Support Astronomer
   ...
 ```
